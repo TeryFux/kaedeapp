@@ -1,0 +1,26 @@
+{
+  "name": "kaede_app",
+  "version": "2.6.3",
+  "description": "Terezie's Multifunctional App | Running on HTML, CSS, JS, PHP, MySQL",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "kaedeapp"
+  },
+  "keywords": [
+    "ferzova",
+    "terezie",
+    "html",
+    "css",
+    "javascript",
+    "php",
+    "mysql",
+    "mariadb",
+    "web"
+  ],
+  "author": "FERZOVA Terezie",
+  "license": "GPL-3.0-or-later"
+}
